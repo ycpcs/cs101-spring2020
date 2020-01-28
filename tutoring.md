@@ -38,7 +38,7 @@ The evening tutors are:
 * Monday (6:00-8:30): Jason Constantine, Madison Tibbett
 * Tuesday (6:00-8:30): Dylan Bieber, Trevor Gerst
 * Wednesday (6:00-8:30): Alyssa McDevitt, Mikayla Trost
-* Thursday (6:00-8:30): Rob Politi, Andrew Georgiou
+* Thursday (6:00-8:30): Dylan Bieber, Andrew Georgiou
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
